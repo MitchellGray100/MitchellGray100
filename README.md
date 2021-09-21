@@ -8,10 +8,10 @@
 -Here is my: <details><summary>LinkedIn (click here)</summary><p> https://www.linkedin.com/in/mitchellegray/ </p></details>
 <details><summary>email (click here)</summary><p> meg346@cornell.edu</p> </details>
 
- <br/>
+
  
-Chess Project <br/>
- ![Chess Project](https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif)
+<details><summary>Chess Project (click here)</summary><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img></details> <br/>
+ 
  
 
 
