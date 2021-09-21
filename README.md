@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**MitchellGray100/MitchellGray100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Current Sophomore at Cornell University studying Computer Science in the College of Engineering.<br/>
+-Planning to get a minor in Electrical and Computer Engineering and a Masters of Engineering in Computer Science.<br/>
+-Currently working on: Chess<br/>
+-Languages I know: Java, OCaml, Verilog, Python, C<br/>
+-I know HTML, Javascript, and CSS but haven't used them in a while.<br/>
+I plan to refresh those skills soon.<br/>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchellGray100&show_icons=true&theme=dracula)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Here is my: <details><summary>LinkedIn (click here)</summary><p> https://www.linkedin.com/in/mitchellegray/ </p></details><br/>
+<details><summary>email (click here)</summary><p> meg346@cornell.edu</p> </details>
+
+ <br/>
+ <br/>
+ 
+Chess Project
+ ![Chess Project](https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIF.gif)
+ 
+
+
