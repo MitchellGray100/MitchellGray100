@@ -13,9 +13,8 @@ I plan to refresh those skills soon.<br/>
 <details><summary>email (click here)</summary><p> meg346@cornell.edu</p> </details>
 
  <br/>
- <br/>
  
-Chess Project
+Chess Project <br/>
  ![Chess Project](https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif)
  
 
