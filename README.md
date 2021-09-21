@@ -16,7 +16,7 @@ I plan to refresh those skills soon.<br/>
  <br/>
  
 Chess Project
- ![Chess Project](https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIF.gif)
+ ![Chess Project](https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif)
  
 
 
