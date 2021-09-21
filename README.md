@@ -10,7 +10,7 @@
 
 
  
-<details><summary>Chess Project (click here)</summary><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img></details> <br/>
+<details><summary>Chess Project (click here)</summary>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img></details> <br/>
  
  
 
