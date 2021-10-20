@@ -12,7 +12,7 @@
  
 <details><summary>Chess Project (click here)</summary>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img></details>
  
- <details><summary>Connect4 Project (click here)</summary>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Chess Project Image"> </img></details> <br/>
+ <details><summary>Connect4 Project (click here)</summary>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details> <br/>
  
  
 
