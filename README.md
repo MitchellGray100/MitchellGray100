@@ -2,8 +2,8 @@
 
 -Current Sophomore at Cornell University studying Computer Science in the College of Engineering.<br/>
 -Planning to get a minor in Electrical & Computer Engineering and a Masters of Engineering in Computer Science.<br/>
--Currently working on: Chess and Connect4<br/>
--Languages I know: Java, OCaml, Verilog, Python, C<br/>
+-Currently working on: Tanks<br/>
+-Languages I know: Java, OCaml, Verilog, C, Python<br/>
 -I know HTML, Javascript, and CSS but haven't used them in a while. I plan to refresh those skills soon.<br/>
 -Here is my: <details><summary>LinkedIn (click here)</summary><p> https://www.linkedin.com/in/mitchellegray/ </p></details>
 <details><summary>Email (click here)</summary><p> meg346@cornell.edu</p> </details>
