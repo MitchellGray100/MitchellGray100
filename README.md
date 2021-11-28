@@ -10,10 +10,13 @@
 
 
  
-<details><summary>Chess Project (click here)</summary>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img></details>
+<details><summary>Chess Project (click here)</summary>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img><img src="https://github.com/MitchellGray100/Chess/blob/main/readMeImages/ScalingGIF.gif" width="700" alt="Chess Project Image"> </img></details>
  
- <details><summary>Connect4 Project (click here)</summary>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details> <br/>
- 
- 
+<details><summary>Tanks Project (click here)</summary>https://github.com/MitchellGray100/Tanks</br><img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/ShieldGIF.gif" width="700" alt="Tanks Project Image"> </img>
+<img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/WheelGIF.gif" width="700" alt="Tanks Project Image"> </img></details>
+
+<details><summary>Connect4 Project (click here)</summary>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details>
+
+
 
 
