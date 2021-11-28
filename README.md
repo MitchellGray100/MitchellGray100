@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -Current Sophomore at Cornell University studying Computer Science in the College of Engineering.<br/>
--Planning to get a minor in Electrical & Computer Engineering and a Masters of Engineering in Computer Science.<br/>
+-Planning to get a minor in ORIE and a Masters of Engineering in Computer Science.<br/>
 -Currently working on: Tanks<br/>
 -Languages I know: Java, OCaml, Verilog, C, Python<br/>
 -I know HTML, Javascript, and CSS but haven't used them in a while. I plan to refresh those skills soon.<br/>
