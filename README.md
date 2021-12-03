@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ___
 <h4>-Current Sophomore at Cornell University studying Computer Science in the College of Engineering.<br/>
 -Planning to get a minor in ORIE and a Masters of Engineering in Computer Science.<br/>
