@@ -11,25 +11,25 @@ ___
 ___
 <h3><b>Here is my: <b></h3>
 
-<details><summary>LinkedIn (click here)</summary><p> https://www.linkedin.com/in/mitchellegray/ </p></details>
+<details><summary>LinkedIn (click here)</summary><p> <h1>https://www.linkedin.com/in/mitchellegray/ </p></details>
 
 ___
 
-<details><summary>Email (click here)</summary><p> meg346@cornell.edu</p> </details>
+<details><summary>Email (click here)</summary><p> <h1>meg346@cornell.edu</p> </details>
 
 ___
 
-<details><summary>Chess Project (click here)</summary>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img><img src="https://github.com/MitchellGray100/Chess/blob/main/readMeImages/ScalingGIF.gif" width="700" alt="Chess Project Image"> </img></details>
+<details><summary>Chess Project (click here)</summary><h1>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img><img src="https://github.com/MitchellGray100/Chess/blob/main/readMeImages/ScalingGIF.gif" width="700" alt="Chess Project Image"> </img></details>
 
  ___
  
-<details><summary>Tanks Project (click here)</summary>https://github.com/MitchellGray100/Tanks</br><img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/ShieldGIF.gif" width="700" alt="Tanks Project Image"> </img>
+<details><summary>Tanks Project (click here)</summary><h1>https://github.com/MitchellGray100/Tanks</br><img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/ShieldGIF.gif" width="700" alt="Tanks Project Image"> </img>
 <img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/WheelGIF.gif" width="700" alt="Tanks Project Image"> </img>
 <img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/AIGIF.gif" width="700" alt="Tanks Project Image"> </img></details>
 
 ___
 
-<details><summary>Connect4 Project (click here)</summary>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details>
+<details><summary>Connect4 Project (click here)</summary><h1>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details>
 
 
 
