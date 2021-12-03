@@ -9,7 +9,7 @@ ___
 -I know HTML, Javascript, and CSS but haven't used them in a while. I plan to refresh those skills over Winter break.<br/></h4>
 
 ___
-<h3><b>Here is my: <b></h3>
+<h2><b>Here is my: <b></h2>
 
 <details><summary>LinkedIn (click here)</summary><p> <h1>https://www.linkedin.com/in/mitchellegray/ </p></details>
 
