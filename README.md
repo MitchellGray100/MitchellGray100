@@ -28,6 +28,18 @@ ___
 <img src="https://github.com/MitchellGray100/Tanks/blob/main/readMeImages/AIGIF.gif" width="700" alt="Tanks Project Image"> </img></details>
 
 ___
+ 
+<details><summary>FordFulkerson Project (click here)</summary><h1>https://github.com/MitchellGray100/FordFulkerson</br><img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/ShowButtonsGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/AddNodesGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/DeleteNodesGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/AddEdgesGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/RemoveEdgesGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/ChangeCapacities.GIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/ViewNodeInfoGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/MaxFlowGIF.gif" width="700" alt="FordFulkerson Project Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/FordFulkerson/main/readMeImages/ScrollBarGIF.gif" width="700" alt="FordFulkerson Project Image"> </img></details>
+
+___
 
 <details><summary>Connect4 Project (click here)</summary><h1>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details>
 
