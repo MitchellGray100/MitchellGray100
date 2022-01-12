@@ -5,7 +5,7 @@ ___
 -Favorite Project: Chess<br/>
 -Currently working on: Tanks and FordFulkerson<br/>
 -Languages I know: Java, OCaml, Bash, Verilog, C, Python<br/>
--Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.
+-Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
 -Other Skills: JavaFX, AI, Fast Typer <br/>
 <br/></h4>
 
