@@ -3,7 +3,7 @@ ___
 <h4>-Current Sophomore at Cornell University studying Computer Science in the College of Engineering.<br/>
 -Planning to get a minor in ORIE and a Masters of Engineering in Computer Science.<br/>
 -Favorite Project: Chess<br/>
--Currently working on: Tanks<br/>
+-Currently working on: Tanks and FordFulkerson<br/>
 -Languages I know: Java, OCaml, Bash, Verilog, C, Python<br/>
 -Other Skills: JavaFX, AI, Fast Typer <br/>
 -I know HTML, Javascript, and CSS but haven't used them in a while. I plan to refresh those skills over Winter break.<br/></h4>
