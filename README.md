@@ -42,8 +42,13 @@ ___
 
 ___
 
+<details><summary>GraphSearchVisualizer Project (click here)</summary><h1>https://github.com/MitchellGray100/GraphSearchVisualizer</br><img src="https://raw.githubusercontent.com/MitchellGray100/GraphSearchVisualizer/main/ReadMeImages/GIF%204.gif" width="700" alt="Graph Search Visualizer GIF"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/GraphSearchVisualizer/main/ReadMeImages/GIF%205.gif" width="700" alt="Graph Search Visualizer GIF"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/GraphSearchVisualizer/main/ReadMeImages/GIF%206.gif" width="700" alt="Graph Search Visualizer GIF"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/GraphSearchVisualizer/main/ReadMeImages/GIF%201.gif" width="700" alt="Graph Search Visualizer GIF"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/GraphSearchVisualizer/main/ReadMeImages/GIF%202.gif" width="700" alt="Graph Search Visualizer GIF"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/GraphSearchVisualizer/main/ReadMeImages/GIF%203.gif" width="700" alt="Graph Search Visualizer GIF"> </img></details>
+
+___
+
 <details><summary>Connect4 Project (click here)</summary><h1>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details>
-
-
-
-
