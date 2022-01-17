@@ -52,3 +52,8 @@ ___
 ___
 
 <details><summary>Connect4 Project (click here)</summary><h1>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img></details>
+
+___
+
+<details><summary>CritterWorld (click here)</summary><h1>https://github.com/MitchellGray100/Critter-World-README</br><img src="https://raw.githubusercontent.com/MitchellGray100/Critter-World-README/main/Screenshots/image1.png" width="700" alt="CritterWorld Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/Critter-World-README/main/Screenshots/image5.png" width="700" alt="CritterWorld Image"> </img></details>
