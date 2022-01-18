@@ -12,7 +12,14 @@ ___
 ___
 <h2><b>Here is my: <b></h2>
 
+
+ 
+<details><summary>Website (click here)</summary><p> <h1>https://mitchellgray100.github.io/MyPersonalWebsite/ </p></details>
+ 
+ ___
+ 
 <details><summary>LinkedIn (click here)</summary><p> <h1>https://www.linkedin.com/in/mitchellegray/ </p></details>
+
 
 ___
 
