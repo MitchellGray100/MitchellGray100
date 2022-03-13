@@ -59,7 +59,7 @@ ___
 ___
 
 <details><summary>Connect4 Project (click here)</summary><h1>https://github.com/MitchellGray100/Connect4</br><img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/Connect4%20Gif.gif" width="700" alt="Connect4 Project Image"> </img>
-src="https://github.com/MitchellGray100/Connect4/blob/main/Images/SmallerGIF.gif" width="700" alt="Connect4 Project Image"> </img></details>
+<img src="https://github.com/MitchellGray100/Connect4/blob/main/Images/SmallerGIF.gif" width="700" alt="Connect4 Project Image"> </img></details>
 
 ___
 
