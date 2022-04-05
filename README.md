@@ -59,9 +59,9 @@ ___
 ___
 
 <details><summary>LinearRegression Project (click here)</summary><h1>https://github.com/MitchellGray100/LinearRegression</br><img src="https://raw.githubusercontent.com/MitchellGray100/LinearRegression/main/src/application/gif3.gif" width="700" alt="Linear Regression GIF"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/LinearRegression/main/src/application/gif4.gif" width="700" alt="Linear Regression GIF"> </img>
 <img src="https://raw.githubusercontent.com/MitchellGray100/LinearRegression/main/src/application/gif1.gif" width="700" alt="Linear Regression GIF"> </img>
 <img src="https://raw.githubusercontent.com/MitchellGray100/LinearRegression/main/src/application/gif2.gif" width="700" alt="Linear Regression GIF"> </img>
-<img src="https://raw.githubusercontent.com/MitchellGray100/LinearRegression/main/src/application/gif4.gif" width="700" alt="Linear Regression GIF"> </img>
 </details>
 
 ___
