@@ -3,10 +3,10 @@ ___
 <h4>-Current Sophomore at Cornell University studying Computer Science in the College of Engineering.<br/>
 -Planning to get a minor in ORIE and a Masters of Engineering in Computer Science.<br/>
 -Favorite Project: Chess<br/>
--Currently working on: GraphSearchVisualizer and FordFulkerson<br/>
--Languages I know: Java, OCaml, Bash, Verilog, C, Python<br/>
+-Currently working on: LinearRegression and Paint<br/>
+-Languages I know: Java, OCaml, Bash, Verilog, C, Python, SQL<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
--Other Skills: JavaFX, AI, Fast Typer <br/>
+-Other Skills: JavaFX, AI, Fast Typer, Tableau <br/>
 <br/></h4>
 
 ___
