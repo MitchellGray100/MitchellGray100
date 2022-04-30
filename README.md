@@ -1,7 +1,9 @@
 # Hi there 👋
 ___
-<h4>-Rising Junior at Cornell University studying Computer Science in the College of Engineering. Incoming DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI.</a><br/>
+<h4>-Rising Junior at Cornell University studying Computer Science in the College of Engineering.<br>
+-Incoming DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI.</a><br/>
 -Planning to get a minor in ORIE and a Masters of Engineering in Computer Science.<br/>
+   <br>
 -Favorite Project: Chess<br/>
 -Currently working on: LinearRegression and Paint<br/>
 -Languages I know: Java, OCaml, Bash, Verilog, C, Python, SQL<br/>
