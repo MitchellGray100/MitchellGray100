@@ -75,3 +75,8 @@ ___
 
 <details><summary>CritterWorld (click here)</summary><h1>https://github.com/MitchellGray100/Critter-World-README</br><img src="https://raw.githubusercontent.com/MitchellGray100/Critter-World-README/main/Screenshots/image1.png" width="700" alt="CritterWorld Image"> </img>
 <img src="https://raw.githubusercontent.com/MitchellGray100/Critter-World-README/main/Screenshots/image5.png" width="700" alt="CritterWorld Image"> </img></details>
+
+___
+
+<details><summary>Egos OS (click here)</summary><h1>https://github.com/MitchellGray100/Egos</br><img src="https://raw.githubusercontent.com/MitchellGray100/egos/main/readMeImages/Login.PNG" width="700" alt="Egos Image"> </img>
+<img src="https://raw.githubusercontent.com/MitchellGray100/egos/main/readMeImages/Bootup.gif" width="700" alt="Egos Gif"> </img></details>
