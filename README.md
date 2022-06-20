@@ -16,7 +16,7 @@ ___
 
 
  
-<details><summary>Website (click here)</summary><p> <h1>https://mitchellgray100.github.io/MyPersonalWebsite/ </p></details>
+<details><summary>Website (click here)</summary><p> <h1>http://mitchellegray.com </p></details>
  
  ___
  
