@@ -17,7 +17,7 @@ ___
 
 
  
-<details><summary>Website (click here)</summary><p> <h1>http://mitchellegray.com </p></details>
+<details><summary>Website (click here)</summary><p> <h1>http://mitchellegray.com <br> <h1>http://easypc.mitchellegray.com</p></details>
  
  ___
  
