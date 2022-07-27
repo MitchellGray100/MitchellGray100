@@ -6,9 +6,10 @@ ___
    <br>
 -Favorite Project: Chess<br/>
 -Currently working on: LinearRegression and Paint<br/>
--Languages I know: Java, OCaml, Bash, Verilog, C, Python, SQL<br/>
+-Languages I know: Java, C, Python, OCaml, Bash, Verilog, SQL, Rust.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
--Other Skills: JavaFX, AI, Fast Typer, Tableau <br/>
+-Devop Skills: REST, Docker, Kubernetes, AWS, Agile.<br/>
+-Other Skills: JavaFX, AI, Fast Typer, Tableau, Qlik Sense.<br/>
 <br/></h4>
 
 ___
