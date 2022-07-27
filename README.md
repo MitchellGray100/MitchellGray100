@@ -1,8 +1,9 @@
 # Hi there 👋
 ___
 <h4>-Junior at Cornell University studying Computer Science in the College of Engineering.<br>
--DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
 -Minor in Operations Research.<br/>
+-DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
+-Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
 -Favorite Project: Chess<br/>
 -Currently working on: LinearRegression and Paint<br/>
