@@ -2,7 +2,7 @@
 ___
 <h4>-Junior at Cornell University studying Computer Science in the College of Engineering.<br>
 -DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
--Planning to get a minor in ORIE and a Masters of Engineering in Computer Science.<br/>
+-Minor in Operations Research.<br/>
    <br>
 -Favorite Project: Chess<br/>
 -Currently working on: LinearRegression and Paint<br/>
