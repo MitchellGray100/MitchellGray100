@@ -5,7 +5,7 @@ ___
 -DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
--Favorite Project: GraphSearchVisualizer<br/>
+-Favorite Project: Cornell MeetUp<br/>
 -Currently working on: Internship and CornellSocial<br/>
 -Languages I know: Java, C, Python, OCaml, Bash, Verilog, SQL, Rust.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
@@ -31,6 +31,9 @@ ___
 
 ___
 
+<details><summary>Cornell MeetUp Project (click here)</summary><h1>https://github.com/MitchellGray100/MeetUp</br><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/readMeImages/Login.PNG" width="700" alt="Chess Project Image"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/readMeImages/Map1.PNG" width="700" alt="Chess Project Image"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/readMeImages/Microservices.PNG" width="700" alt="Chess Project Image"> </img>
+
+ ___
 <details><summary>Chess Project (click here)</summary><h1>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img><img src="https://github.com/MitchellGray100/Chess/blob/main/readMeImages/ScalingGIF.gif" width="700" alt="Chess Project Image"> </img></details>
 
  ___
