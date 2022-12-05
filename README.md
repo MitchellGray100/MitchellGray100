@@ -6,7 +6,7 @@ ___
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
 -Favorite Project: Cornell MeetUp<br/>
--Currently working on: Internship and CornellSocial<br/>
+-Currently working on: Internship and Cornell MeetUp<br/>
 -Languages I know: Java, C, Python, OCaml, Bash, Verilog, SQL, Rust.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
 -Devop Skills: REST, Docker, Kubernetes, AWS, Agile.<br/>
