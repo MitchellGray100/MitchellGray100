@@ -31,7 +31,7 @@ ___
 
 ___
 
-<details><summary>Cornell MeetUp Project (click here)</summary><h1>https://github.com/MitchellGray100/MeetUp</br><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/readMeImages/Login.PNG" width="700" alt="Chess Project Image"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/readMeImages/Map1.PNG" width="700" alt="Chess Project Image"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/readMeImages/Microservices.PNG" width="700" alt="Chess Project Image"> </img>
+<details><summary>Cornell MeetUp Project (click here)</summary><h1>https://github.com/MitchellGray100/MeetUp</br><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Login.PNG" width="700" alt="Login for CornellMeetup"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Map1.PNG" width="700" alt="User View once logged in"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Microservices.PNG" width="700" alt="Microservice Architecture Diagram"> </img></details>
 
  ___
 <details><summary>Chess Project (click here)</summary><h1>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img><img src="https://github.com/MitchellGray100/Chess/blob/main/readMeImages/ScalingGIF.gif" width="700" alt="Chess Project Image"> </img></details>
