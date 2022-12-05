@@ -3,6 +3,7 @@ ___
 <h4>-Junior at Cornell University studying Computer Science in the College of Engineering.<br>
 -Minor in Operations Research.<br/>
 -DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
+-Incoming Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
 -Favorite Project: Cornell MeetUp<br/>
