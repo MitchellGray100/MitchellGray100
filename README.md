@@ -11,7 +11,7 @@ ___
 -Languages I know: Java, C, Python, OCaml, Bash, Verilog, SQL, Rust.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
 -Devop Skills: REST, Docker, Kubernetes, AWS, Azure, Agile.<br/>
--Other Skills: JavaFX, AI, Fast Typer, Tableau, Qlik Sense.<br/>
+-Other Skills: JavaFX, AI, Fast Typer, Tableau, Qlik Sense, Neo4j, LaTeX.<br/>
 <br/></h4>
 
 ___
