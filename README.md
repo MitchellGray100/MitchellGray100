@@ -1,14 +1,14 @@
 # Hi there 👋
 ___
-<h4>-Junior at Cornell University studying Computer Science in the College of Engineering.<br>
+<h4>-Senior at Cornell University studying Computer Science in the College of Engineering.<br>
 -Minor in Operations Research.<br/>
--DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
 -Incoming Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
+-Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
 -Favorite Project: Cornell MeetUp<br/>
 -Currently working on: Internship and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/><br/>
--Languages I know: Java, C, C++, Python, SQL, Bash, OCaml,Verilog, Rust.<br/>
+-Languages I know: Java, C++, C, Python, SQL, Bash, OCaml,Verilog, Rust.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
 -Devop Skills: REST, Docker, Kubernetes, AWS, Azure, Agile.<br/>
 -Other Skills: JavaFX, AI, Fast Typer, Tableau, Qlik Sense, Neo4j, LaTeX.<br/>
