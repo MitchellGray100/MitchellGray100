@@ -17,7 +17,9 @@ ___
 ___
 <h2><b>Here is my: <b></h2>
 
-
+<details><summary>Resume (click here)</summary><p> <h1>https://github.com/MitchellGray100/Resume/blob/main/resume.pdf</p></details>
+ 
+ ___
  
 <details><summary>Website (click here)</summary><p> <h1>http://mitchellegray.com <br> <h1>http://easypc.mitchellegray.com</p></details>
  
