@@ -7,11 +7,13 @@ ___
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
 -Favorite Project: Cornell MeetUp<br/>
--Currently working on: Internship and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/><br/>
--Languages I know: Java, C++, C, Python, SQL, Bash, OCaml,Verilog, Rust.<br/>
+-Currently working on: Internship and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
+-Looking for jobs: Distributed Systems, Software Engineering, Infrastructure, Backend<br/><br/>
+   
+-Languages I know: Java, C++, Python, C, SQL, Bash.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
--Devop Skills: REST, Docker, Kubernetes, AWS, Azure, Agile.<br/>
--Other Skills: JavaFX, AI, Fast Typer, Tableau, Qlik Sense, Neo4j, LaTeX.<br/>
+-Devop Skills: REST, Docker, Kubernetes, AWS, Azure, Google Cloud.<br/>
+-Other Skills: CosmosDB, Neo4j, Azure Functions, Kafka, CMake, Protobuf, JavaFX, AI, Fast Typer, Tableau, Qlik, LaTeX.<br/>
 <br/></h4>
 
 ___
