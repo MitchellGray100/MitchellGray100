@@ -8,7 +8,7 @@ ___
    <br>
 -Favorite Project: Cornell MeetUp<br/>
 -Currently working on: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
--Looking for jobs: Distributed Systems, Software Engineering, Infrastructure, Backend<br/><br/>
+-Looking for jobs: Distributed Systems, Software Engineering, Infrastructure, Backend, Software Testing<br/><br/>
    
 -Languages I know: Java, C++, Python, C, SQL, Bash.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
