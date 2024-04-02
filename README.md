@@ -1,14 +1,14 @@
 # Hi there 👋
 ___
-<h4>-Senior at Cornell University studying Computer Science in the College of Engineering.<br>
+<h4>-Senior at <a href="https://github.com/CornellCIS">@CornellCIS</a> studying Computer Science in the College of Engineering.<br>
 -Minor in Operations Research.<br/>
+-Joining <a href="https://github.com/Oracle">@Oracle</a> as an MTS on the Globally Distributed Database team after graduation<br>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
--Favorite Project: Cornell MeetUp<br/>
+-Favorite Project: SPEED<br/>
 -Currently working on: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
--Looking for jobs: Distributed Systems, Software Engineering, Infrastructure, Backend, Software Testing<br/><br/>
    
 -Languages I know: Java, C++, Python, C, SQL, Bash.<br/>
 -Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
