@@ -1,8 +1,10 @@
 # Hi there 👋
 ___
-<h4>-Senior at <a href="https://github.com/CornellCIS">@CornellCIS</a> studying Computer Science in the College of Engineering.<br>
--Minor in Operations Research.<br/>
--Joining <a href="https://github.com/Oracle">@Oracle</a> as an MTS on the Globally Distributed Database team after graduation<br>
+<h4>
+-MTS <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Shard Native Replication (SNR) sub-team.<br>
+-Master of Science student at Georgia Tech specializing in Computing Systems.<br>
+-Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a> that studied Computer Science in the College of Engineering and received Bachelor of Science.<br>
+-Received Minor in Operations Research.<br/>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
 -Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
