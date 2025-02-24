@@ -21,7 +21,7 @@ ___
 ___
 <h2><b>Here is my: <b></h2>
 
-<details><summary>Resume (click here)</summary><p> <h1>https://mitchellgray100.github.io/MyPersonalWebsite/resume.html</p></details>
+<details><summary>Resume (click here)</summary><p> <h1>https://mitchellegray.com/resume.html</p></details>
  
  ___
  
