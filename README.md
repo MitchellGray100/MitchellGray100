@@ -2,7 +2,7 @@
 ___
 <h4>
 -MTS <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Shard Native Replication (SNR) sub-team.<br>
--Master of Science student at Georgia Tech specializing in Computing Systems.<br>
+-Master of Science student at Georgia Tech specializing in Machine Learning.<br>
 -Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a> that studied Computer Science in the College of Engineering and received Bachelor of Science.<br>
 -Received Minor in Operations Research.<br/>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
@@ -25,7 +25,7 @@ ___
  
  ___
  
-<details><summary>Website (click here)</summary><p> <h1>http://mitchellegray.com</details>
+<details><summary>Website (click here)</summary><p> <h1>https://mitchellegray.com</details>
  
  ___
  
