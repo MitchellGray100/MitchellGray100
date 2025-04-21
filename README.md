@@ -1,21 +1,18 @@
 # Hi there 👋
 ___
 <h4>
--MTS <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Shard Native Replication (SNR) sub-team.<br>
+-MTS <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication (Shard Native Replication) sub-team.<br>
 -Master of Science student at Georgia Tech specializing in Machine Learning.<br>
 -Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a> that studied Computer Science in the College of Engineering and received Bachelor of Science.<br>
 -Received Minor in Operations Research.<br/>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
--Computer Repair Business <a href="http://easypc.mitchellegray.com/">@EasyPC</a>.<br/>
    <br>
--Favorite Project: SPEED<br/>
--Currently working on: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
+-Favorite Project: SPEED and ADOPT<br/>
+-Found here: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
    
--Languages I know: Java, C++, Python, C, SQL, Bash.<br/>
--Frontend Skills: HTML, Javascript, CSS, Bootstrap, Node.JS, Express, EJS, JQuery.<br/>
--Devop Skills: REST, Docker, Kubernetes, AWS, Azure, Google Cloud.<br/>
--Other Skills: CosmosDB, Neo4j, Azure Functions, Kafka, CMake, Protobuf, JavaFX, AI, Fast Typer, Tableau, Qlik, LaTeX.<br/>
+-Languages I know: C, C++, Python, PL/SQL, Java, Bash.<br/>
+-Skills: Cloud Platforms, Microservices, Databases, Containerization, Container Orchestration, CI/CD, Source Control, Dependency Managers, Build Systems, Unit Testing, Python Data Analytics, BI<br/>
 <br/></h4>
 
 ___
