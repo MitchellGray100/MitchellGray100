@@ -1,18 +1,19 @@
 # Hi there 👋
 ___
 <h4>
--MTS <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication sub-team.<br>
+-SWE-II <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication sub-team.<br>
 -Master of Science student at Georgia Tech specializing in Machine Learning.<br>
 -Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a> that studied Computer Science in the College of Engineering and received Bachelor of Science.<br>
 -Received Minor in Operations Research.<br/>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
    <br>
+-Currently Working on: Nosi Editor
 -Favorite Project: SPEED and ADOPT<br/>
 -Found here: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
    
 -Languages I know: C, C++, Python, PL/SQL, Java, Bash.<br/>
--Skills: Cloud Platforms, Microservices, Databases, Containerization, Container Orchestration, CI/CD, Source Control, Dependency Managers, Build Systems, Unit Testing, Python Data Analytics, BI<br/>
+-Skills:  Git · Pytorch · Scikit-learn · NumPy · Pandas · Poetry · CMake · CI/CD · Docker · K8s · Azure · AWS <br/>
 <br/></h4>
 
 ___
