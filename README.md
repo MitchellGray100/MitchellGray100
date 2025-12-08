@@ -3,12 +3,14 @@ ___
 <h4>
 -SWE-II <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication sub-team.<br>
 -Master of Science student at Georgia Tech specializing in Artificial Intelligence<br>
+-Researcher in the Contextual Computing Group under Professor Thad Starner.<br>
 -Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a> that studied Computer Science in the College of Engineering and received Bachelor of Science.<br>
 -Received Minor in Operations Research.<br/>
+-Previous Researcher in the Cornell Database Group under Professor Immanuel Trummer.<br>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
    <br>
--Currently Working on: Nosi Editor<br/>
+-Currently Working on: Nosi IDE<br/>
 -Favorite Project: SPEED and ADOPT<br/>
 -Found here: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
    
@@ -32,10 +34,18 @@ ___
 
 ___
 
-<details><summary>Email (click here)</summary><p> <h1>meg346@cornell.edu</p> </details>
+<details><summary>Email (click here)</summary><p> <h1>meg346@cornell.edu<br><h1>mgray88@gatech.edu</p> </details>
 
 ___
 
+<details><summary>PointCloud Classification Project (click here)</summary><h1>https://github.com/MitchellGray100/3D_Point_Cloud_Classification</br><img src="https://github.com/MitchellGray100/3D_Point_Cloud_Classification/blob/main/CS_7643_Final_Project_Report_page-0001.jpg" width="700" alt="SPEED logo"> </img></details>
+
+___
+
+<details><summary>SPEED Project (click here)</summary><h1>https://github.com/jakejack13/SPEED</br><img src="https://github.com/jakejack13/SPEED/assets/67762738/e29e7da0-4ef4-468c-a0c0-acb479460da5" width="700" alt="SPEED logo"> </img><img src="https://github.com/jakejack13/SPEED/assets/67762738/8018a006-026d-4f2f-bdcc-0704f5527e38" width="700" alt="BOOM Poster"> </img></details>
+
+ ___
+ 
 <details><summary>Cornell MeetUp Project (click here)</summary><h1>https://github.com/MitchellGray100/CornellMeetUp</br><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Login.PNG" width="700" alt="Login for CornellMeetup"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Map1.PNG" width="700" alt="User View once logged in"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Microservices.PNG" width="700" alt="Microservice Architecture Diagram"> </img></details>
 
  ___
