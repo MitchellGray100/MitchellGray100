@@ -4,14 +4,13 @@ ___
 -SWE-II <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication sub-team.<br>
 -Master of Science student at Georgia Tech specializing in Artificial Intelligence<br>
 -Researcher in the Contextual Computing Group under Professor Thad Starner.<br>
--Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a> that studied Computer Science in the College of Engineering and received Bachelor of Science.<br>
--Received Minor in Operations Research.<br/>
+-Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a>, studied Computer Science and received Bachelor of Science and Minor in Operations Research.<br>
 -Previous Researcher in the Cornell Database Group under Professor Immanuel Trummer.<br>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
    <br>
 -Currently Working on: Nosi IDE<br/>
--Favorite Project: SPEED and ADOPT<br/>
+-Favorite Projects: SPEED and ADOPT<br/>
 -Found here: <a href="https://github.com/jakejack13/SPEED">SPEED</a> and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
    
 -Languages I know: C, C++, Python, PL/SQL, Java, Bash.<br/>
