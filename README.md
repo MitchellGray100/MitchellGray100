@@ -11,7 +11,7 @@ ___
    <br>
 -Currently Working on: Nosi IDE<br/>
 -Favorite Projects: SPEED and ADOPT<br/>
--Found here: <a href="https://github.com/mitchellgray100/nosi">SPEED</a>, <a href="https://github.com/jakejack13/SPEED">SPEED</a>, and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
+-Found here: <a href="https://github.com/mitchellgray100/nosi">Nosi IDE</a>, <a href="https://github.com/jakejack13/SPEED">SPEED</a>, and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
    
 -Languages I know: C, C++, Python, PL/SQL, Java, Bash.<br/>
 -Skills:  Git · Pytorch · Scikit-learn · NumPy · Pandas · Poetry · CMake · CI/CD · Docker · K8s · Azure · AWS <br/>
