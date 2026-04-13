@@ -34,7 +34,11 @@ ___
 ___
 
 <details><summary>Email (click here)</summary><p> <h1>meg346@cornell.edu<br><h1>mgray88@gatech.edu</p> </details>
+   
+___
 
+<details><summary>Nosi IDE (click here)</summary><h1>https://github.com/MitchellGray100/Nosi</br><img src="https://github.com/MitchellGray100/Nosi/raw/main/assets/L_S26_NOSI__Copy__page-0001.jpg" width="700" alt="Nosi Paper Preview"> </img><img src="https://github.com/MitchellGray100/Nosi/blob/main/assets/debug_encrypted_ipynb_files.gif" width="700" alt="Nosi Demo"> </img></details>
+   
 ___
 
 <details><summary>PointCloud Classification Project (click here)</summary><h1>https://github.com/MitchellGray100/3D_Point_Cloud_Classification</br><img src="https://github.com/MitchellGray100/3D_Point_Cloud_Classification/blob/main/CS_7643_Final_Project_Report_page-0001.jpg" width="700" alt="SPEED logo"> </img></details>
