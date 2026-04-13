@@ -49,9 +49,19 @@ ___
 
  ___
  
+<details><summary>ADOPT Project (click here)</summary><h1>https://github.com/jxiw/ADOPT</br><img width="807" height="1051" alt="adoptDemo" src="https://github.com/user-attachments/assets/ebe16c9b-a6ac-4bb7-91b4-35904a9a3320" /></details>
+   
+ ___
+ 
 <details><summary>Cornell MeetUp Project (click here)</summary><h1>https://github.com/MitchellGray100/CornellMeetUp</br><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Login.PNG" width="700" alt="Login for CornellMeetup"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Map1.PNG" width="700" alt="User View once logged in"> </img><img src="https://raw.githubusercontent.com/MitchellGray100/CornellMeetUp/main/README-Images/Microservices.PNG" width="700" alt="Microservice Architecture Diagram"> </img></details>
 
- ___
+<br>
+<br>
+<br>
+
+___
+<h2><b>Older Projects (but still cool): <b></h2>
+
 <details><summary>Chess Project (click here)</summary><h1>https://github.com/MitchellGray100/Chess</br><img src="https://raw.githubusercontent.com/MitchellGray100/Chess/main/readMeImages/ChessGIFSmall.gif" width="700" alt="Chess Project Image"> </img><img src="https://github.com/MitchellGray100/Chess/blob/main/readMeImages/ScalingGIF.gif" width="700" alt="Chess Project Image"> </img></details>
 
  ___
