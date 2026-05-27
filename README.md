@@ -9,7 +9,7 @@ ___
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
 -Previous DevOps Engineer Intern <a href="https://github.com/cmu-sei">@CMU-SEI</a>.<br/>
    <br>
--Currently Working on: InferenceServing & Nosi IDE<br/>
+-Currently Working on: <a href="https://github.com/MitchellGray100/InferenceServing">InferenceServing</a> & <a href="https://github.com/MitchellGray100/Nosi">Nosi IDE</a><br/>
 -Favorite Projects: SPEED and ADOPT<br/>
 -Found here: <a href="https://github.com/mitchellgray100/nosi">Nosi IDE</a>, <a href="https://github.com/jakejack13/SPEED">SPEED</a>, and <a href="https://github.com/jxiw/ADOPT">ADOPT</a>.<br/>
    
