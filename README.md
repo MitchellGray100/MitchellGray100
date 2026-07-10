@@ -1,9 +1,10 @@
 # Hi there 👋
 ___
 <h4>
--SWE-II <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication sub-team.<br>
--Master of Science student at Georgia Tech specializing in Artificial Intelligence<br>
--Researcher in the Contextual Computing Group under Professor Thad Starner.<br>
+-Senior SWE <a href="https://github.com/RetellAI">@RetellAI</a> working on AI Infrastructure.<br>
+-Previous SWE-II <a href="https://github.com/Oracle">@Oracle</a> on the Globally Distributed Database team, specifically the Raft Replication sub-team.<br>
+-Master of Science from Georgia Tech specializing in Artificial Intelligence<br>
+-Previous Researcher in the Contextual Computing Group under Professor Thad Starner.<br>
 -Cornell Alum <a href="https://github.com/CornellCIS">@CornellCIS</a>, studied Computer Science and received Bachelor of Science and Minor in Operations Research.<br>
 -Previous Researcher in the Cornell Database Group under Professor Immanuel Trummer.<br>
 -Previous Software Engineer Intern <a href="https://github.com/GeckoRobotics">@GeckoRobotics</a>.<br/>
